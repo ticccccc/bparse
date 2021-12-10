@@ -1,3 +1,3 @@
-module github/ticccccc/bparse
+module github.com/ticccccc/bparse
 
 go 1.17
